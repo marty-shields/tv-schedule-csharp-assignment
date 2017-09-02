@@ -1,0 +1,13 @@
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\bin\Debug\TVSchedule.Tests.dll
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\bin\Debug\TVSchedule.Tests.pdb
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\bin\Debug\TVSchedule.exe
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\bin\Debug\TVSchedule.pdb
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\obj\Debug\TVSchedule.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\obj\Debug\TVSchedule.Tests.dll
+C:\Users\Martin Shields\Desktop\Assingment\TVSchedule\TVSchedule.Tests\obj\Debug\TVSchedule.Tests.pdb
